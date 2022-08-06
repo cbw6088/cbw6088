@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ###   there 👋
+  ###   Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=WELCOME&desc=Byungwoo%20Choi&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
 
