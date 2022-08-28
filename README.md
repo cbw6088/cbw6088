@@ -8,7 +8,10 @@
 
 <a href="https://cbw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+
   
   ![cbw6088 GitHub stats](https://github-readme-stats.vercel.app/api?username=cbw6088&show_icons=true&theme=tokyonight)
 
