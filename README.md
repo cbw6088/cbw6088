@@ -16,11 +16,6 @@
   
   ![cbw6088 GitHub stats](https://github-readme-stats.vercel.app/api?username=cbw6088&show_icons=true&theme=tokyonight)
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbw4186)](https://solved.ac/cbw4186)
- ![profile](http://mazandi.herokuapp.com/api?handle=cbw4186&theme=white)
- </div>
- 
 
 <!--
 **cbw6088/cbw6088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
