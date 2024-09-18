@@ -8,11 +8,17 @@
  .
  .
 
-<a href="https://cbw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
+## 기술 스택
 
-<img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</p>
 
   
   ![cbw6088 GitHub stats](https://github-readme-stats.vercel.app/api?username=cbw6088&show_icons=true&theme=tokyonight)
