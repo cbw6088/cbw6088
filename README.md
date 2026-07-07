@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=next.js&logoColor=#000000" />
 </p>
 
-  
-  ![cbw6088 GitHub stats](https://github-readme-stats.vercel.app/api?username=cbw6088&show_icons=true&theme=tokyonight)
-
 
 <!--
 **cbw6088/cbw6088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
